@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odaruate.github.io/cUO/sitemap_index.txt
+Sitemap: https://odaruate.github.io/kSh/sitemap_index.txt
+Sitemap: https://odaruate.github.io/ogH/sitemap_index.txt
+Sitemap: https://odaruate.github.io/ter/sitemap_index.txt
